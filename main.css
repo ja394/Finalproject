@@ -1,0 +1,28 @@
+.nav{
+    background-color: orangered;
+    padding:70px;
+
+}
+
+
+* {box-sizing: border-box}
+
+/* Full-width input fields */
+input[type=text], input[type=password],input[type=date] {
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background:#f1f1f1;
+
+
+}
+
+
+
+.footer {
+    background-color: greenyellow;
+    padding: 30px;
+    font-weight: bold;
+}
